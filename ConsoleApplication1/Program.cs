@@ -15,7 +15,7 @@ namespace ConsoleApplication1
 
             Console.Write(max);
             Console.ReadLine();
-
+            Console.WriteLine("comon");
         }
     }
 }
